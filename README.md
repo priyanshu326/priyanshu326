@@ -68,9 +68,14 @@
 
 ## 🐍 Contribution Snake
 
-```text
-Generate using github-action in your profile repository.
-```
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/priyanshu326/priyanshu326/output/github-contribution-grid-snake-dark.svg"
+    alt="Snake Animation"
+  />
+</p>
 
 ## 🌐 Connect With Me
 
