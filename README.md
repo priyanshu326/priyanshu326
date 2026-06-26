@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE (AI)
+- 🎓 B.Tech CSE
 - 🌍 India
 - 🌱 Learning: Full-Stack Development, AI, ML, LLMs
 - 💡 Interested in building modern, SEO-friendly web apps and AI solutions.
