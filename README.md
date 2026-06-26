@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 🚀 AI Engineer • Full-Stack Developer • B.Tech CSE (AI & ML)
+# 🚀 AI Engineer • Full-Stack Developer • B.Tech CSE (AI)
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Applications;Full-Stack+Web+Developer;Always+Learning+New+Technologies;Open+Source+Enthusiast" />
 
@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE (AI & ML)
+- 🎓 B.Tech CSE (AI)
 - 🌍 India
 - 🌱 Learning: Full-Stack Development, AI, ML, LLMs
 - 💡 Interested in building modern, SEO-friendly web apps and AI solutions.
@@ -52,19 +52,19 @@
 
 > Replace `YOUR_USERNAME` everywhere below.
 
-![](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=priyanshu326&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshu326&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu326&layout=compact&theme=tokyonight)
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10)
+![](https://github-profile-trophy.vercel.app/?username=priyanshu326&theme=tokyonight&no-frame=true&margin-w=10)
 
 ## 📊 Contribution Graph
 
-![](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![](https://github-readme-activity-graph.vercel.app/graph?username=priyanshu326&theme=tokyo-night)
 
 ## 🐍 Contribution Snake
 
