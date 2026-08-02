@@ -50,8 +50,6 @@
 
 ## 📈 GitHub Stats
 
-> Replace `YOUR_USERNAME` everywhere below.
-
 ![](https://github-readme-stats.vercel.app/api?username=priyanshu326&show_icons=true&theme=tokyonight)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshu326&theme=tokyonight)
