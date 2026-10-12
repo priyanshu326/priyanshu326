@@ -50,17 +50,12 @@
 
 ## 📈 GitHub Stats
 
-<div align="center">
+![](https://github-readme-stats.vercel.app/api?username=priyanshu326&show_icons=true&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api?username=priyanshu326&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub Stats"/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshu326&theme=tokyonight)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu326&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top Languages"/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=priyanshu326&layout=compact&theme=tokyonight)
 
-<br>
-
-<img src="https://streak-stats.demolab.com?user=priyanshu326&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=priyanshu326&theme=tokyonight&no-frame=true&margin-w=10)
