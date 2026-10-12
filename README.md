@@ -1,55 +1,5 @@
 # 👋 Hi, I'm Priyanshu Prajapati
 
-<div align="center">
-
-# 🚀 AI Engineer • Full-Stack Developer • B.Tech CSE (AI)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Building+AI-Powered+Applications;Full-Stack+Web+Developer;Always+Learning+New+Technologies;Open+Source+Enthusiast" />
-
-</div>
-
----
-
-## 🚀 About Me
-
-- 🎓 B.Tech CSE
-- 🌍 India
-- 🌱 Learning: Full-Stack Development, AI, ML, LLMs
-- 💡 Interested in building modern, SEO-friendly web apps and AI solutions.
-- 🤝 Open to collaboration and open source.
-
-## 🔧 Tech Stack
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,python,java,cpp,tensorflow,pytorch,git,github,docker,linux,vscode,firebase&perline=10"/>
-</p>
-
-## 🚀 Currently Working On
-
-- AI Projects
-- MERN Stack
-- Portfolio
-- Open Source
-
-## 💬 Ask Me About
-
-- HTML/CSS/JavaScript
-- React
-- Node.js
-- Python
-- AI & ML
-
-## 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| 🌐 Portfolio | Personal portfolio website |
-| 🤖 AI Project | AI-powered application |
-| 📊 ML Project | Machine learning experiments |
-| ⚛️ React App | Modern frontend |
-
-## 📈 GitHub Stats
-
 ![](https://github-readme-stats.vercel.app/api?username=priyanshu326&show_icons=true&theme=tokyonight)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=priyanshu326&theme=tokyonight)
