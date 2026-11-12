@@ -4,7 +4,7 @@
 
 <!-- PROFESSIONAL GITHUB BANNER: Replace the URL below with your uploaded banner image -->
 
-<img src="ADD_YOUR_BANNER_IMAGE_URL_HERE" width="100%" alt="Priyanshu Prajapati - AI Engineer and Full-Stack Developer"/>
+<img src="https://ibb.co/nsy8GFJJ" width="100%" alt="Priyanshu Prajapati - AI Engineer and Full-Stack Developer"/>
 
 # 🚀 AI Engineer • Full-Stack Developer • B.Tech CSE (AI)
 
